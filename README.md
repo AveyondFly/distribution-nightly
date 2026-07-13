@@ -64,10 +64,11 @@ If you are a vendor and want **other Rockchip** devices supported in this fork, 
 |-------|--------|
 | RO520C | LP3X-V10 |
 
-#### RK3326S Devices (6.6 BSP Kernel)
+#### RK3326S Devices (5.1 BSP Kernel)
 | Brand | Models |
 |-------|--------|
-| TBD | TBD |
+| GameKiddy | GKD Pixel 2 |
+| GameMT | E6 |
 
 ## Contributing
 
